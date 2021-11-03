@@ -1,6 +1,6 @@
 # split_the_bill_backend
 
-This is the backend part for "split_the_bill" project.
+This is the backend part for <a href="https://github.com/kapsxx/split_the_bill">split_the_bill</a> project.
 
 ## Steps to run the application locally
 * Clone this repository in your desired local location
