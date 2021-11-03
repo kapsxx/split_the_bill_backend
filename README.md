@@ -17,7 +17,6 @@ This is the backend part for "split_the_bill" project.
 ## Tech stack
 * express
 * express-validator
-* axios
 * jwt
 * mongoDB
 * mongoose
